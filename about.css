@@ -4,3 +4,6 @@
 body{
     background-color: rgb(158, 147, 255);
 }
+.d {
+    border-style: double;
+}
